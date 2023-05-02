@@ -1,0 +1,9 @@
+Bug Report Structure
+
+1. Title
+2. STR
+3. Expected Result
+4. Actual Result
+5. Screenshots
+6. Severity/Priority
+7. Environment
